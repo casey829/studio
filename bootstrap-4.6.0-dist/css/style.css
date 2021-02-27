@@ -1,22 +1,21 @@
-.jumbotron{
-    background-image: url("/assets/backgrounds/h_img.jpg");
-    background-color: black;
+.page1{
+    background-image: url('/assets/backgrounds/h_img.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top:17%; 
+    font-weight: bold;
+    font-style: italic;
 }
-.h1{
-    color:white;
+#about-us{
+    text-align: center;
     position: relative;
-    left: 40%;
-    text-align: inherit;
-}
-.h2{
-    color:white;
+    top:40px
+} 
+#about{
+    text-align: center;
+    font-weight: bold;
     position: relative;
-    left: 35%;
-    top: 20px;
-}
-.p1{
-    color:white;
-    position: relative;
-    left: 28%;
-    top: 25px;
+    bottom: 2px;
 }
