@@ -1,0 +1,22 @@
+.jumbotron{
+    background-image: url("/assets/backgrounds/h_img.jpg");
+    background-color: black;
+}
+.h1{
+    color:white;
+    position: relative;
+    left: 40%;
+    text-align: inherit;
+}
+.h2{
+    color:white;
+    position: relative;
+    left: 35%;
+    top: 20px;
+}
+.p1{
+    color:white;
+    position: relative;
+    left: 28%;
+    top: 25px;
+}
